@@ -1,7 +1,0 @@
-[phases]
-install = "" # Skip the install phase
-build = ""   # Skip the build phase
-
-[phases.start]
-# Specify the command to start your application
-cmd = "node index.js"
